@@ -3,19 +3,19 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About AeroCoin</source>
-        <translation>AeroCoin Hakkında</translation>
+        <source>About Aero</source>
+        <translation>Aero Hakkında</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;AeroCoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;AeroCoin&lt;/b&gt; versiyonu</translation>
+        <source>&lt;b&gt;Aero&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Aero&lt;/b&gt; versiyonu</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The AeroCoin developers</source>
+Copyright © 2014 The Aero developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -63,8 +63,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your AeroCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Bunlar, ödeme almak için AeroCoin adreslerinizdir. Her bir göndericiye farklı birini verebilir, böylece size kimin ödeme yaptığını takip edebilirsiniz.</translation>
+        <source>These are your Aero addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Bunlar, ödeme almak için Aero adreslerinizdir. Her bir göndericiye farklı birini verebilir, böylece size kimin ödeme yaptığını takip edebilirsiniz.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -78,8 +78,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a AeroCoin address</source>
-        <translation>Bir AeroCoin adresine sahip olduğunu ispatlamak için bir mesaj imzala</translation>
+        <source>Sign a message to prove you own a Aero address</source>
+        <translation>Bir Aero adresine sahip olduğunu ispatlamak için bir mesaj imzala</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -93,8 +93,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified AeroCoin address</source>
-        <translation>Mesajın, belirli bir AeroCoin adresiyle imzalandığından emin olmak için onu doğrula</translation>
+        <source>Verify a message to ensure it was signed with a specified Aero address</source>
+        <translation>Mesajın, belirli bir Aero adresiyle imzalandığından emin olmak için onu doğrula</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -261,8 +261,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-58"/>
-        <source>AeroCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>AeroCoin, şifreleme işlemini tamamlamak için şimdi kapatılacak. Cüzdanınızı şifrelemenin; coinlerinizin, bilgisayarınızı etkileyen zararlı yazılımlar tarafından çalınmasını bütünüyle engelleyemeyebileceğini unutmayınız.</translation>
+        <source>Aero will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>Aero, şifreleme işlemini tamamlamak için şimdi kapatılacak. Cüzdanınızı şifrelemenin; coinlerinizin, bilgisayarınızı etkileyen zararlı yazılımlar tarafından çalınmasını bütünüyle engelleyemeyebileceğini unutmayınız.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -375,8 +375,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+6"/>
-        <source>Show information about AeroCoin</source>
-        <translation>AeroCoin hakkındaki bilgiyi göster</translation>
+        <source>Show information about Aero</source>
+        <translation>Aero hakkındaki bilgiyi göster</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -425,13 +425,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-64"/>
-        <source>Send coins to a AeroCoin address</source>
-        <translation>Bir AeroCoin adresine coin gönder</translation>
+        <source>Send coins to a Aero address</source>
+        <translation>Bir Aero adresine coin gönder</translation>
     </message>
     <message>
         <location line="+47"/>
-        <source>Modify configuration options for AeroCoin</source>
-        <translation>AeroCoin yapılandırma seçeneklerini değiştir</translation>
+        <source>Modify configuration options for Aero</source>
+        <translation>Aero yapılandırma seçeneklerini değiştir</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -470,8 +470,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-202"/>
-        <source>AeroCoin</source>
-        <translation>AeroCoin</translation>
+        <source>Aero</source>
+        <translation>Aero</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -480,8 +480,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+180"/>
-        <source>&amp;About AeroCoin</source>
-        <translation>AeroCoin &amp;Hakkında</translation>
+        <source>&amp;About Aero</source>
+        <translation>Aero &amp;Hakkında</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -537,13 +537,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>AeroCoin client</source>
-        <translation>AeroCoin istemcisi</translation>
+        <source>Aero client</source>
+        <translation>Aero istemcisi</translation>
     </message>
     <message numerus="yes">
         <location line="+75"/>
-        <source>%n active connection(s) to AeroCoin network</source>
-        <translation><numerusform>AeroCoin ağına %n etkin bağlantı</numerusform><numerusform>AeroCoin ağına %n etkin bağlantı</numerusform></translation>
+        <source>%n active connection(s) to Aero network</source>
+        <translation><numerusform>Aero ağına %n etkin bağlantı</numerusform><numerusform>Aero ağına %n etkin bağlantı</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -582,12 +582,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-312"/>
-        <source>About AeroCoin card</source>
+        <source>About Aero card</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about AeroCoin card</source>
+        <source>Show information about Aero card</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -667,8 +667,8 @@ Adres: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid AeroCoin address or malformed URI parameters.</source>
-        <translation>URI ayrıştırılamadı! Bu, geçersiz bir AeroCoin adresi veya hatalı URI parametreleri nedeniyle olabilir.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Aero address or malformed URI parameters.</source>
+        <translation>URI ayrıştırılamadı! Bu, geçersiz bir Aero adresi veya hatalı URI parametreleri nedeniyle olabilir.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -727,8 +727,8 @@ Adres: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. AeroCoin can no longer continue safely and will quit.</source>
-        <translation>Önemli bir hata oluştu. AeroCoin artık güvenli bir şekilde devam edemez ve şimdi kapatılacak.</translation>
+        <source>A fatal error occurred. Aero can no longer continue safely and will quit.</source>
+        <translation>Önemli bir hata oluştu. Aero artık güvenli bir şekilde devam edemez ve şimdi kapatılacak.</translation>
     </message>
 </context>
 <context>
@@ -1061,8 +1061,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid AeroCoin address.</source>
-        <translation>Girilen %1 adresi, geçerli bir AeroCoin adresi değildir.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Aero address.</source>
+        <translation>Girilen %1 adresi, geçerli bir Aero adresi değildir.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1080,8 +1080,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>AeroCoin-Qt</source>
-        <translation>AeroCoin-Qt</translation>
+        <source>Aero-Qt</source>
+        <translation>Aero-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1153,13 +1153,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start AeroCoin after logging in to the system.</source>
-        <translation>Sisteme giriş yaptıktan sonra AeroCoin&apos;i otomatik olarak başlat</translation>
+        <source>Automatically start Aero after logging in to the system.</source>
+        <translation>Sisteme giriş yaptıktan sonra Aero&apos;i otomatik olarak başlat</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start AeroCoin on system login</source>
-        <translation>Sisteme girişte AeroCoin&apos;i &amp;başlat</translation>
+        <source>&amp;Start Aero on system login</source>
+        <translation>Sisteme girişte Aero&apos;i &amp;başlat</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1178,8 +1178,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the AeroCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Yönelticide AeroCoin istemci portunu otomatik olarak aç. Bu, sadece yönelticiniz UPnP&apos;i desteklediğinde ve etkin olduğunda çalışır.</translation>
+        <source>Automatically open the Aero client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Yönelticide Aero istemci portunu otomatik olarak aç. Bu, sadece yönelticiniz UPnP&apos;i desteklediğinde ve etkin olduğunda çalışır.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1188,8 +1188,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the AeroCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>AeroCoin ağına bir SOCKS vekil sunucusu yoluyla bağlan (örn. Tor yoluyla bağlanıldığında)</translation>
+        <source>Connect to the Aero network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Aero ağına bir SOCKS vekil sunucusu yoluyla bağlan (örn. Tor yoluyla bağlanıldığında)</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1263,8 +1263,8 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting AeroCoin.</source>
-        <translation>Kullanıcı arabirimi dili buradan ayarlanabilir. Ayar, AeroCoin yeniden başlatıldığında etkin olacaktır.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Aero.</source>
+        <translation>Kullanıcı arabirimi dili buradan ayarlanabilir. Ayar, Aero yeniden başlatıldığında etkin olacaktır.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1278,7 +1278,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show AeroCoin addresses in the transaction list or not.</source>
+        <source>Whether to show Aero addresses in the transaction list or not.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1325,7 +1325,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting AeroCoin.</source>
+        <source>This setting will take effect after restarting Aero.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1344,7 +1344,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the AeroCoin network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Aero network after a connection is established, but this process has not completed yet.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1560,7 +1560,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the AeroCoin-Qt help message to get a list with possible AeroCoin command-line options.</source>
+        <source>Show the Aero-Qt help message to get a list with possible Aero command-line options.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1580,12 +1580,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="-104"/>
-        <source>AeroCoin - Debug window</source>
+        <source>Aero - Debug window</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+25"/>
-        <source>AeroCoin Core</source>
+        <source>Aero Core</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1595,7 +1595,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the AeroCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the Aero debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1605,7 +1605,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the AeroCoin RPC console.</source>
+        <source>Welcome to the Aero RPC console.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1764,7 +1764,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a AeroCoin address (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</source>
+        <source>Enter a Aero address (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1864,7 +1864,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid AeroCoin address</source>
+        <source>WARNING: Invalid Aero address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1938,7 +1938,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a AeroCoin address (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</source>
+        <source>Enter a Aero address (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1999,7 +1999,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this AeroCoin address</source>
+        <source>Sign the message to prove you own this Aero address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2031,7 +2031,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified AeroCoin address</source>
+        <source>Verify the message to ensure it was signed with the specified Aero address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2042,7 +2042,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a AeroCoin address (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</source>
+        <source>Enter a Aero address (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2052,7 +2052,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter AeroCoin signature</source>
+        <source>Enter Aero signature</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2623,7 +2623,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>AeroCoin version</source>
+        <source>Aero version</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2633,7 +2633,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or AeroCoind</source>
+        <source>Send command to -server or Aerod</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2653,12 +2653,12 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: AeroCoin.conf)</source>
+        <source>Specify configuration file (default: Aero.conf)</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: AeroCoind.pid)</source>
+        <source>Specify pid file (default: Aerod.pid)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2808,7 +2808,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong AeroCoin will not work properly.</source>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Aero will not work properly.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2997,13 +2997,13 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=AeroCoinrpc
+rpcuser=Aerorpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;AeroCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Aero Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -3129,12 +3129,12 @@ for example: alertnotify=echo %%s | mail -s &quot;AeroCoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  AeroCoin is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s.  Aero is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="-98"/>
-        <source>AeroCoin</source>
+        <source>Aero</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3169,12 +3169,12 @@ for example: alertnotify=echo %%s | mail -s &quot;AeroCoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of AeroCoin</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of Aero</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart AeroCoin to complete</source>
+        <source>Wallet needed to be rewritten: restart Aero to complete</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3244,7 +3244,7 @@ for example: alertnotify=echo %%s | mail -s &quot;AeroCoin Alert&quot; admin@foo
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. AeroCoin is probably already running.</source>
+        <source>Unable to bind to %s on this computer. Aero is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>

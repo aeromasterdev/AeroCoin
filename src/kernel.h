@@ -1,8 +1,8 @@
-// Copyright (c) 2012-2013 The AeroCoin developers
+// Copyright (c) 2012-2013 The Aero developers
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
-#ifndef AeroCoin_KERNEL_H
-#define AeroCoin_KERNEL_H
+#ifndef Aero_KERNEL_H
+#define Aero_KERNEL_H
 
 #include "main.h"
 

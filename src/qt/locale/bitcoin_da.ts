@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About AeroCoin</source>
-        <translation>Om AeroCoin</translation>
+        <source>About Aero</source>
+        <translation>Om Aero</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;AeroCoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;AeroCoin&lt;/b&gt; version</translation>
+        <source>&lt;b&gt;Aero&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Aero&lt;/b&gt; version</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The AeroCoin developers</source>
+Copyright © 2014 The Aero developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The AeroCoin developers</translation>
+Copyright © 2014 The Aero developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,8 +65,8 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your AeroCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Dette er dine AeroCoin adresser til at modtage betalinger. Du ønsker måske at give en anden en til af hver afsender, så du kan holde styr på hvem der betaler dig.</translation>
+        <source>These are your Aero addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Dette er dine Aero adresser til at modtage betalinger. Du ønsker måske at give en anden en til af hver afsender, så du kan holde styr på hvem der betaler dig.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -80,8 +80,8 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a AeroCoin address</source>
-        <translation>Signerer en meddelelse for at bevise du ejer en AeroCoin adresse</translation>
+        <source>Sign a message to prove you own a Aero address</source>
+        <translation>Signerer en meddelelse for at bevise du ejer en Aero adresse</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified AeroCoin address</source>
-        <translation>Bekræft en meddelelse for at sikre, den blev underskrevet med en specificeret AeroCoin adresse</translation>
+        <source>Verify a message to ensure it was signed with a specified Aero address</source>
+        <translation>Bekræft en meddelelse for at sikre, den blev underskrevet med en specificeret Aero adresse</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,8 +263,8 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="-58"/>
-        <source>AeroCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>AeroCoin lukker nu for at afslutte krypteringen. Husk at en krypteret  tegnebog ikke fuldt ud beskytter dine mønter mod at blive stjålet af malware som har inficeret din computer.</translation>
+        <source>Aero will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>Aero lukker nu for at afslutte krypteringen. Husk at en krypteret  tegnebog ikke fuldt ud beskytter dine mønter mod at blive stjålet af malware som har inficeret din computer.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +377,8 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="+6"/>
-        <source>Show information about AeroCoin</source>
-        <translation>Vis oplysninger om AeroCoin</translation>
+        <source>Show information about Aero</source>
+        <translation>Vis oplysninger om Aero</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,13 +427,13 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="-64"/>
-        <source>Send coins to a AeroCoin address</source>
-        <translation>Send mønter til en AeroCoin adresse</translation>
+        <source>Send coins to a Aero address</source>
+        <translation>Send mønter til en Aero adresse</translation>
     </message>
     <message>
         <location line="+47"/>
-        <source>Modify configuration options for AeroCoin</source>
-        <translation>Ændre indstillingsmuligheder for AeroCoin</translation>
+        <source>Modify configuration options for Aero</source>
+        <translation>Ændre indstillingsmuligheder for Aero</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +472,8 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="-202"/>
-        <source>AeroCoin</source>
-        <translation>AeroCoin</translation>
+        <source>Aero</source>
+        <translation>Aero</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +482,8 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="+180"/>
-        <source>&amp;About AeroCoin</source>
-        <translation>&amp;Om AeroCoin</translation>
+        <source>&amp;About Aero</source>
+        <translation>&amp;Om Aero</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,13 +539,13 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>AeroCoin client</source>
-        <translation>AeroCoin Klient</translation>
+        <source>Aero client</source>
+        <translation>Aero Klient</translation>
     </message>
     <message numerus="yes">
         <location line="+75"/>
-        <source>%n active connection(s) to AeroCoin network</source>
-        <translation><numerusform>%n aktiv forbindelse til AeroCoin netværk</numerusform><numerusform>%n aktive forbindelser til AeroCoin netværk</numerusform></translation>
+        <source>%n active connection(s) to Aero network</source>
+        <translation><numerusform>%n aktiv forbindelse til Aero netværk</numerusform><numerusform>%n aktive forbindelser til Aero netværk</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -584,13 +584,13 @@ Produktet indeholder software, som er udviklet af OpenSSL Project til brug i Ope
     </message>
     <message>
         <location line="-312"/>
-        <source>About AeroCoin card</source>
-        <translation>Om AeroCoin kort</translation>
+        <source>About Aero card</source>
+        <translation>Om Aero kort</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about AeroCoin card</source>
-        <translation>Vis oplysninger om AeroCoin kort</translation>
+        <source>Show information about Aero card</source>
+        <translation>Vis oplysninger om Aero kort</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -669,8 +669,8 @@ Adresse: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid AeroCoin address or malformed URI parameters.</source>
-        <translation>URI kan ikke tolkes! Dette kan skyldes en ugyldig AeroCoin adresse eller misdannede URI parametre.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Aero address or malformed URI parameters.</source>
+        <translation>URI kan ikke tolkes! Dette kan skyldes en ugyldig Aero adresse eller misdannede URI parametre.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -729,7 +729,7 @@ Adresse: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. AeroCoin can no longer continue safely and will quit.</source>
+        <source>A fatal error occurred. Aero can no longer continue safely and will quit.</source>
         <translation>Der opstod en fejl under forsøg på at gemme dataene i tegnebogen til den nye placering.</translation>
     </message>
 </context>
@@ -1063,8 +1063,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid AeroCoin address.</source>
-        <translation>Den indtastede adresse &quot;%1&quot; er ikke en gyldig AeroCoin adresse.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Aero address.</source>
+        <translation>Den indtastede adresse &quot;%1&quot; er ikke en gyldig Aero adresse.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1082,8 +1082,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>AeroCoin-Qt</source>
-        <translation>AeroCoin-Qt</translation>
+        <source>Aero-Qt</source>
+        <translation>Aero-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1155,13 +1155,13 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start AeroCoin after logging in to the system.</source>
-        <translation>Automatisk start AeroCoin efter at have logget ind på systemet.</translation>
+        <source>Automatically start Aero after logging in to the system.</source>
+        <translation>Automatisk start Aero efter at have logget ind på systemet.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start AeroCoin on system login</source>
-        <translation>&amp;Start AeroCoin ved systems login</translation>
+        <source>&amp;Start Aero on system login</source>
+        <translation>&amp;Start Aero ved systems login</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1180,8 +1180,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the AeroCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatisk åbne AeroCoin klient-port på routeren. Dette virker kun, når din router understøtter UPnP og er det er aktiveret.</translation>
+        <source>Automatically open the Aero client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatisk åbne Aero klient-port på routeren. Dette virker kun, når din router understøtter UPnP og er det er aktiveret.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1190,8 +1190,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the AeroCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Opret forbindelse til AeroCoin netværk via en SOCKS proxy (fx ved tilslutning gennem Tor).</translation>
+        <source>Connect to the Aero network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Opret forbindelse til Aero netværk via en SOCKS proxy (fx ved tilslutning gennem Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1265,8 +1265,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting AeroCoin.</source>
-        <translation>Sproget i brugergrænsefladen kan indstilles her. Denne indstilling vil træde i kraft efter genstart af AeroCoin tegnebog.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Aero.</source>
+        <translation>Sproget i brugergrænsefladen kan indstilles her. Denne indstilling vil træde i kraft efter genstart af Aero tegnebog.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1280,8 +1280,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show AeroCoin addresses in the transaction list or not.</source>
-        <translation>Få vist AeroCoin adresser på listen over transaktioner eller ej.</translation>
+        <source>Whether to show Aero addresses in the transaction list or not.</source>
+        <translation>Få vist Aero adresser på listen over transaktioner eller ej.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1327,8 +1327,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting AeroCoin.</source>
-        <translation>Denne indstilling vil træde i kraft efter genstart af AeroCoin.</translation>
+        <source>This setting will take effect after restarting Aero.</source>
+        <translation>Denne indstilling vil træde i kraft efter genstart af Aero.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1346,8 +1346,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the AeroCoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>De viste oplysninger kan være forældet. Din tegnebog synkroniserer automatisk med AeroCoin netværket efter en forbindelse er etableret, men denne proces er ikke afsluttet endnu.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Aero network after a connection is established, but this process has not completed yet.</source>
+        <translation>De viste oplysninger kan være forældet. Din tegnebog synkroniserer automatisk med Aero netværket efter en forbindelse er etableret, men denne proces er ikke afsluttet endnu.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1562,8 +1562,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the AeroCoin-Qt help message to get a list with possible AeroCoin command-line options.</source>
-        <translation>Vis AeroCoin-Qt hjælpe besked for at få en liste med mulige AeroCoin kommandolinjeparametre.</translation>
+        <source>Show the Aero-Qt help message to get a list with possible Aero command-line options.</source>
+        <translation>Vis Aero-Qt hjælpe besked for at få en liste med mulige Aero kommandolinjeparametre.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1582,13 +1582,13 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>AeroCoin - Debug window</source>
-        <translation>AeroCoin - Debug vindue</translation>
+        <source>Aero - Debug window</source>
+        <translation>Aero - Debug vindue</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>AeroCoin Core</source>
-        <translation>AeroCoin Kerne</translation>
+        <source>Aero Core</source>
+        <translation>Aero Kerne</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1597,8 +1597,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the AeroCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Åbn AeroCoin debug logfilen fra den nuværende data mappe. Dette kan tage et par sekunder for store logfiler.</translation>
+        <source>Open the Aero debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Åbn Aero debug logfilen fra den nuværende data mappe. Dette kan tage et par sekunder for store logfiler.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1607,8 +1607,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the AeroCoin RPC console.</source>
-        <translation>Velkommen til AeroCoin RPC-konsol.</translation>
+        <source>Welcome to the Aero RPC console.</source>
+        <translation>Velkommen til Aero RPC-konsol.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1766,8 +1766,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a AeroCoin address (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</source>
-        <translation>Indtast en AeroCoin-adresse (f.eks Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</translation>
+        <source>Enter a Aero address (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</source>
+        <translation>Indtast en Aero-adresse (f.eks Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1866,8 +1866,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid AeroCoin address</source>
-        <translation>ADVARSEL: Ugyldig AeroCoin adresse</translation>
+        <source>WARNING: Invalid Aero address</source>
+        <translation>ADVARSEL: Ugyldig Aero adresse</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1940,8 +1940,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a AeroCoin address (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</source>
-        <translation>Indtast en AeroCoin-adresse (f.eks Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</translation>
+        <source>Enter a Aero address (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</source>
+        <translation>Indtast en Aero-adresse (f.eks Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</translation>
     </message>
 </context>
 <context>
@@ -2001,8 +2001,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this AeroCoin address</source>
-        <translation>Underskriv brevet for at bevise du ejer denne AeroCoin adresse</translation>
+        <source>Sign the message to prove you own this Aero address</source>
+        <translation>Underskriv brevet for at bevise du ejer denne Aero adresse</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2033,8 +2033,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified AeroCoin address</source>
-        <translation>Kontroller meddelelsen for at sikre, at den blev indgået med den angivne AeroCoin adresse</translation>
+        <source>Verify the message to ensure it was signed with the specified Aero address</source>
+        <translation>Kontroller meddelelsen for at sikre, at den blev indgået med den angivne Aero adresse</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2044,8 +2044,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a AeroCoin address (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</source>
-        <translation>Indtast en AeroCoin-adresse (f.eks Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</translation>
+        <source>Enter a Aero address (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</source>
+        <translation>Indtast en Aero-adresse (f.eks Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2054,8 +2054,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter AeroCoin signature</source>
-        <translation>Indtast AeroCoin underskrift</translation>
+        <source>Enter Aero signature</source>
+        <translation>Indtast Aero underskrift</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2625,8 +2625,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>AeroCoin version</source>
-        <translation>AeroCoin version</translation>
+        <source>Aero version</source>
+        <translation>Aero version</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2635,8 +2635,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or AeroCoind</source>
-        <translation>Send kommando til-server eller AeroCoind</translation>
+        <source>Send command to -server or Aerod</source>
+        <translation>Send kommando til-server eller Aerod</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2655,13 +2655,13 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: AeroCoin.conf)</source>
-        <translation>Angiv konfigurationsfil (default: AeroCoin.conf)</translation>
+        <source>Specify configuration file (default: Aero.conf)</source>
+        <translation>Angiv konfigurationsfil (default: Aero.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: AeroCoind.pid)</source>
-        <translation>Angiv pid fil (standard: AeroCoind.pid)</translation>
+        <source>Specify pid file (default: Aerod.pid)</source>
+        <translation>Angiv pid fil (standard: Aerod.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2810,8 +2810,8 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong AeroCoin will not work properly.</source>
-        <translation>Advarsel: Kontroller venligst, at computerens dato og klokkeslæt er korrekt! Hvis dit ur er forkert vil AeroCoin ikke fungere korrekt.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Aero will not work properly.</source>
+        <translation>Advarsel: Kontroller venligst, at computerens dato og klokkeslæt er korrekt! Hvis dit ur er forkert vil Aero ikke fungere korrekt.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -3000,24 +3000,24 @@ Det betyder, at et gebyr på mindst %2 er påkrævet.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=AeroCoinrpc
+rpcuser=Aerorpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;AeroCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Aero Alert&quot; admin@foo.com
 </source>
         <translation>% s, skal du indstille et rpcpassword i konfigurationsfilen: 
 % s 
 Det anbefales at bruge følgende tilfældig adgangskode: 
-rpcuser = AeroCoinrpc  
+rpcuser = Aerorpc  
 rpcpassword =% s  
 (du behøver ikke at huske denne adgangskode)  
 Brugernavn og adgangskode må ikke være den samme.  
 Hvis filen ikke findes, skal du oprette den med filtilladelser ejer-læsbar-kun. 
 Det kan også anbefales at sætte alertnotify så du får besked om problemer; 
-for eksempel: alertnotify = echo%% s | mail-s &quot;AeroCoin Alert&quot; admin@foo.com 
+for eksempel: alertnotify = echo%% s | mail-s &quot;Aero Alert&quot; admin@foo.com 
 </translation>
     </message>
     <message>
@@ -3142,13 +3142,13 @@ for eksempel: alertnotify = echo%% s | mail-s &quot;AeroCoin Alert&quot; admin@f
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  AeroCoin is probably already running.</source>
-        <translation>Kan ikke få en lås på data mappe% s. AeroCoin kører sikkert allerede.</translation>
+        <source>Cannot obtain a lock on data directory %s.  Aero is probably already running.</source>
+        <translation>Kan ikke få en lås på data mappe% s. Aero kører sikkert allerede.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>AeroCoin</source>
-        <translation>AeroCoin</translation>
+        <source>Aero</source>
+        <translation>Aero</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3182,13 +3182,13 @@ for eksempel: alertnotify = echo%% s | mail-s &quot;AeroCoin Alert&quot; admin@f
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of AeroCoin</source>
-        <translation>Fejl ved indlæsning af wallet.dat: Wallet kræver en nyere version af AeroCoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Aero</source>
+        <translation>Fejl ved indlæsning af wallet.dat: Wallet kræver en nyere version af Aero</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart AeroCoin to complete</source>
-        <translation>Det er nødvendig for wallet at blive omskrevet: Genstart AeroCoin for fuldføre</translation>
+        <source>Wallet needed to be rewritten: restart Aero to complete</source>
+        <translation>Det er nødvendig for wallet at blive omskrevet: Genstart Aero for fuldføre</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3257,8 +3257,8 @@ for eksempel: alertnotify = echo%% s | mail-s &quot;AeroCoin Alert&quot; admin@f
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. AeroCoin is probably already running.</source>
-        <translation>Kunne ikke binde sig til% s på denne computer. AeroCoin kører sikkert allerede.</translation>
+        <source>Unable to bind to %s on this computer. Aero is probably already running.</source>
+        <translation>Kunne ikke binde sig til% s på denne computer. Aero kører sikkert allerede.</translation>
     </message>
     <message>
         <location line="-97"/>

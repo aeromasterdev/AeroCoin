@@ -84,7 +84,7 @@ INPUT(
 ./build\scrypt-x86_64.o
 ./build\scrypt.o
 ./build\pbkdf2.o
-./build\aerocoin-qt_plugin_import.o
+./build\Aero-qt_plugin_import.o
 ./build\qrc_bitcoin.o
 ./build\moc_bitcoingui.o
 ./build\moc_transactiontablemodel.o

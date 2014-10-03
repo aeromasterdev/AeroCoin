@@ -57,6 +57,17 @@ static const int fHaveUPnP = false;
 static const uint256 hashGenesisBlock("0x00000f95c86fd6741a621920f5cfc106251a528f9b76c7f571d5c676f3d0c2af");
 static const uint256 hashGenesisBlockTestNet("0x00000f95c86fd6741a621920f5cfc106251a528f9b76c7f571d5c676f3d0c2af");
 
+static const uint256 fCheckPoint1("000000077e73b28d596b7eb0cb86e94b024d22a2cc55713b60009326b35ce1c8");
+static const uint256 fCheckPoint2("000000000057353816be9bdfdc7ee378e974784d731396c1f5e66dcfe7488dd3");
+static const uint256 fCheckPoint3("81b9684a3bcbe919e2e1ef29be3e110bbbed9f17e9804bdc3295fd504a2ceae3");
+static const uint256 fCheckPoint4("746e33b12fedc5286d09c5911b8d129cd1efc381daf9d4ad0d2311722bcc12c9");
+static const uint256 fCheckPoint5("92070b67f3e03edda7debedbc5bd0c2a7d0e2e3b74904386633f371ec3a4011e");
+static const uint256 fCheckPoint6("5d4f98b952817a4e38ef4de052a37aaed23bc1130c31a440fe2f994d0187e817");
+static const uint256 fCheckPoint7("4000582c0f4a10bb87079a35848472a30f783584675e6c7accad11267244b910");
+
+
+
+
 inline int64_t PastDrift(int64_t nTime)   { return nTime - 24 * 60 * 60; } // up to 1 day from the past
 inline int64_t FutureDrift(int64_t nTime) { return nTime + 24 * 60 * 60; } // up to 1 day from the future
 
@@ -534,7 +545,7 @@ public:
 
     bool IsCoinStake() const
     {
-        // AeroCoin: the coin stake transaction is marked with the first output empty
+        // Aero: the coin stake transaction is marked with the first output empty
         return (vin.size() > 0 && (!vin[0].prevout.IsNull()) && vout.size() >= 2 && vout[0].IsEmpty());
     }
 
@@ -698,7 +709,7 @@ public:
     bool ClientConnectInputs();
     bool CheckTransaction() const;
     bool AcceptToMemoryPool(CTxDB& txdb, bool fCheckInputs=true, bool* pfMissingInputs=NULL);
-    bool GetCoinAge(CTxDB& txdb, uint64_t& nCoinAge) const;  // AeroCoin: get transaction coin age
+    bool GetCoinAge(CTxDB& txdb, uint64_t& nCoinAge) const;  // Aero: get transaction coin age
 
 protected:
     const CTxOut& GetOutputFor(const CTxIn& input, const MapPrevTx& inputs) const;
@@ -850,7 +861,7 @@ public:
     // network and disk
     std::vector<CTransaction> vtx;
 
-    // AeroCoin: block signature - signed by one of the coin base txout[N]'s owner
+    // Aero: block signature - signed by one of the coin base txout[N]'s owner
     std::vector<unsigned char> vchBlockSig;
 
     // memory only
@@ -929,7 +940,7 @@ public:
         return nEntropyBit;
     }
 
-    // AeroCoin: two types of block: proof-of-work or proof-of-stake
+    // Aero: two types of block: proof-of-work or proof-of-stake
     bool IsProofOfStake() const
     {
         return (vtx.size() > 1 && vtx[1].IsCoinStake());
@@ -945,7 +956,7 @@ public:
         return IsProofOfStake()? std::make_pair(vtx[1].vin[0].prevout, vtx[1].nTime) : std::make_pair(COutPoint(), (unsigned int)0);
     }
 
-    // AeroCoin: get max transaction timestamp
+    // Aero: get max transaction timestamp
     int64_t GetMaxTransactionTime() const
     {
         int64_t maxTransactionTime = 0;
@@ -1088,7 +1099,7 @@ public:
     bool AddToBlockIndex(unsigned int nFile, unsigned int nBlockPos, const uint256& hashProofOfStake);
     bool CheckBlock(bool fCheckPOW=true, bool fCheckMerkleRoot=true, bool fCheckSig=true) const;
     bool AcceptBlock();
-    bool GetCoinAge(uint64_t& nCoinAge) const; // AeroCoin: calculate total coin age spent in block
+    bool GetCoinAge(uint64_t& nCoinAge) const; // Aero: calculate total coin age spent in block
     bool SignBlock(CWallet& keystore, int64_t nFees);
     bool CheckBlockSignature() const;
 
@@ -1116,13 +1127,13 @@ public:
     CBlockIndex* pnext;
     unsigned int nFile;
     unsigned int nBlockPos;
-    uint256 nChainTrust; // AeroCoin: trust score of block chain
+    uint256 nChainTrust; // Aero: trust score of block chain
     int nHeight;
 
     int64_t nMint;
     int64_t nMoneySupply;
 
-    unsigned int nFlags;  // AeroCoin: block index flags
+    unsigned int nFlags;  // Aero: block index flags
     enum  
     {
         BLOCK_PROOF_OF_STAKE = (1 << 0), // is proof-of-stake block

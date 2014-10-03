@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About AeroCoin</source>
-        <translation>O AeroCoin</translation>
+        <source>About Aero</source>
+        <translation>O Aero</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;AeroCoin&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;AeroCoin&lt;/b&gt; verzia</translation>
+        <source>&lt;b&gt;Aero&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Aero&lt;/b&gt; verzia</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The AeroCoin developers</source>
+Copyright © 2014 The Aero developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The AeroCoin developers</translation>
+Copyright © 2014 The Aero developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,8 +65,8 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-46"/>
-        <source>These are your AeroCoin addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Toto sú vaše AeroCoin adresy pre príjem platieb. Možno budete chcieť dať inú každému odosielateľovi, takže môžete sledovať, kto Vám platí.</translation>
+        <source>These are your Aero addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Toto sú vaše Aero adresy pre príjem platieb. Možno budete chcieť dať inú každému odosielateľovi, takže môžete sledovať, kto Vám platí.</translation>
     </message>
     <message>
         <location line="+60"/>
@@ -80,8 +80,8 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+11"/>
-        <source>Sign a message to prove you own a AeroCoin address</source>
-        <translation>Podpísať správu, že vlastníte AeroCoin adresu</translation>
+        <source>Sign a message to prove you own a Aero address</source>
+        <translation>Podpísať správu, že vlastníte Aero adresu</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-14"/>
-        <source>Verify a message to ensure it was signed with a specified AeroCoin address</source>
-        <translation>Overte správu, aby ste zabezpečili, že bola podpísaná s určitou AeroCoin adresou</translation>
+        <source>Verify a message to ensure it was signed with a specified Aero address</source>
+        <translation>Overte správu, aby ste zabezpečili, že bola podpísaná s určitou Aero adresou</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,8 +263,8 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-58"/>
-        <source>AeroCoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>AeroCoin sa teraz zavrie aby dokončil proces zašifrovania. Nezabudnite, že zašifrovanie vašej peňaženky nemôže plne chrániť vaše mince pred krádežou malwarom napadnutím vašeho počítača.</translation>
+        <source>Aero will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>Aero sa teraz zavrie aby dokončil proces zašifrovania. Nezabudnite, že zašifrovanie vašej peňaženky nemôže plne chrániť vaše mince pred krádežou malwarom napadnutím vašeho počítača.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -377,8 +377,8 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+6"/>
-        <source>Show information about AeroCoin</source>
-        <translation>Zobraziť informácie o AeroCoin</translation>
+        <source>Show information about Aero</source>
+        <translation>Zobraziť informácie o Aero</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -427,13 +427,13 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-64"/>
-        <source>Send coins to a AeroCoin address</source>
-        <translation>Poslať mince na AeroCoin adresu</translation>
+        <source>Send coins to a Aero address</source>
+        <translation>Poslať mince na Aero adresu</translation>
     </message>
     <message>
         <location line="+47"/>
-        <source>Modify configuration options for AeroCoin</source>
-        <translation>Upraviť možnosti konfigurácie pre AeroCoin</translation>
+        <source>Modify configuration options for Aero</source>
+        <translation>Upraviť možnosti konfigurácie pre Aero</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -472,8 +472,8 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-202"/>
-        <source>AeroCoin</source>
-        <translation>AeroCoin</translation>
+        <source>Aero</source>
+        <translation>Aero</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -482,8 +482,8 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+180"/>
-        <source>&amp;About AeroCoin</source>
-        <translation>&amp;O AeroCoin</translation>
+        <source>&amp;About Aero</source>
+        <translation>&amp;O Aero</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -539,13 +539,13 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     <message>
         <location line="+0"/>
         <location line="+60"/>
-        <source>AeroCoin client</source>
-        <translation>AeroCoin client</translation>
+        <source>Aero client</source>
+        <translation>Aero client</translation>
     </message>
     <message numerus="yes">
         <location line="+75"/>
-        <source>%n active connection(s) to AeroCoin network</source>
-        <translation><numerusform>%n aktívne spojenie s AeroCoin sieťov</numerusform><numerusform>%n aktívnych spojení s AeroCoin sieťov</numerusform><numerusform>%n aktívnych spojení s AeroCoin sieťov</numerusform></translation>
+        <source>%n active connection(s) to Aero network</source>
+        <translation><numerusform>%n aktívne spojenie s Aero sieťov</numerusform><numerusform>%n aktívnych spojení s Aero sieťov</numerusform><numerusform>%n aktívnych spojení s Aero sieťov</numerusform></translation>
     </message>
     <message>
         <location line="+40"/>
@@ -584,13 +584,13 @@ Tento produkt obsahuje softvér vyvinutý Projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-312"/>
-        <source>About AeroCoin card</source>
-        <translation>O AeroCoin karte</translation>
+        <source>About Aero card</source>
+        <translation>O Aero karte</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Show information about AeroCoin card</source>
-        <translation>Zobraziť informácie o AeroCoin karte</translation>
+        <source>Show information about Aero card</source>
+        <translation>Zobraziť informácie o Aero karte</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -668,8 +668,8 @@ Adresa: %4</translation>
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid AeroCoin address or malformed URI parameters.</source>
-        <translation>URI nemožno analyzovať! To môže byť spôsobené neplatnou AeroCoin adresu alebo chybnými URI parametrami.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Aero address or malformed URI parameters.</source>
+        <translation>URI nemožno analyzovať! To môže byť spôsobené neplatnou Aero adresu alebo chybnými URI parametrami.</translation>
     </message>
     <message>
         <location line="+18"/>
@@ -728,8 +728,8 @@ Adresa: %4</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+109"/>
-        <source>A fatal error occurred. AeroCoin can no longer continue safely and will quit.</source>
-        <translation>Došlo k závažnej chybe. AeroCoin už nemôže pokračovať bezpečne a bude ukončený.</translation>
+        <source>A fatal error occurred. Aero can no longer continue safely and will quit.</source>
+        <translation>Došlo k závažnej chybe. Aero už nemôže pokračovať bezpečne a bude ukončený.</translation>
     </message>
 </context>
 <context>
@@ -1062,8 +1062,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid AeroCoin address.</source>
-        <translation>Zadaná adresa &quot;%1&quot; nie je platnou AeroCoin adresou.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Aero address.</source>
+        <translation>Zadaná adresa &quot;%1&quot; nie je platnou Aero adresou.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1081,8 +1081,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location filename="../guiutil.cpp" line="+420"/>
         <location line="+12"/>
-        <source>AeroCoin-Qt</source>
-        <translation>AeroCoin-Qt</translation>
+        <source>Aero-Qt</source>
+        <translation>Aero-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1154,13 +1154,13 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start AeroCoin after logging in to the system.</source>
-        <translation>Automaticky spustiť AeroCoin po prihlásení sa do systému.</translation>
+        <source>Automatically start Aero after logging in to the system.</source>
+        <translation>Automaticky spustiť Aero po prihlásení sa do systému.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start AeroCoin on system login</source>
-        <translation>&amp;Spustiť AeroCoin pri prihlásení do systému</translation>
+        <source>&amp;Start Aero on system login</source>
+        <translation>&amp;Spustiť Aero pri prihlásení do systému</translation>
     </message>
     <message>
         <location line="+7"/>
@@ -1179,8 +1179,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the AeroCoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automaticky otvoriť port klienta AeroCoin na routeri. To funguje iba vtedy, ak váš router podporuje UPnP a je povolené.</translation>
+        <source>Automatically open the Aero client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automaticky otvoriť port klienta Aero na routeri. To funguje iba vtedy, ak váš router podporuje UPnP a je povolené.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1189,8 +1189,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+7"/>
-        <source>Connect to the AeroCoin network through a SOCKS proxy (e.g. when connecting through Tor).</source>
-        <translation>Pripojenie k sieti AeroCoin cez SOCKS proxy server (napr. pri pripojení cez Tor).</translation>
+        <source>Connect to the Aero network through a SOCKS proxy (e.g. when connecting through Tor).</source>
+        <translation>Pripojenie k sieti Aero cez SOCKS proxy server (napr. pri pripojení cez Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1264,8 +1264,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting AeroCoin.</source>
-        <translation>Jazyk používateľského rozhrania je možné tu nastaviť. Toto nastavenie sa prejaví až po reštartovaní AeroCoin.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Aero.</source>
+        <translation>Jazyk používateľského rozhrania je možné tu nastaviť. Toto nastavenie sa prejaví až po reštartovaní Aero.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1279,8 +1279,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show AeroCoin addresses in the transaction list or not.</source>
-        <translation>Či chcete zobraziť AeroCoin adresy v zozname transakcií alebo nie.</translation>
+        <source>Whether to show Aero addresses in the transaction list or not.</source>
+        <translation>Či chcete zobraziť Aero adresy v zozname transakcií alebo nie.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1326,8 +1326,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting AeroCoin.</source>
-        <translation>Toto nastavenie sa prejaví až po reštartovaní AeroCoin.</translation>
+        <source>This setting will take effect after restarting Aero.</source>
+        <translation>Toto nastavenie sa prejaví až po reštartovaní Aero.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1345,8 +1345,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location line="+33"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the AeroCoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Zobrazené informácie môžu byť zastaralé. Vaša peňaženka sa automaticky synchronizuje so sieťou AeroCoin po nadviazaní spojenia, ale tento proces nie je ešte dokončený.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Aero network after a connection is established, but this process has not completed yet.</source>
+        <translation>Zobrazené informácie môžu byť zastaralé. Vaša peňaženka sa automaticky synchronizuje so sieťou Aero po nadviazaní spojenia, ale tento proces nie je ešte dokončený.</translation>
     </message>
     <message>
         <location line="-160"/>
@@ -1561,8 +1561,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the AeroCoin-Qt help message to get a list with possible AeroCoin command-line options.</source>
-        <translation>Zobraziť AeroCoin-Qt nápovedu k získaniu zoznamu pre možnosti AeroCoin príkazového riadku.</translation>
+        <source>Show the Aero-Qt help message to get a list with possible Aero command-line options.</source>
+        <translation>Zobraziť Aero-Qt nápovedu k získaniu zoznamu pre možnosti Aero príkazového riadku.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1581,13 +1581,13 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="-104"/>
-        <source>AeroCoin - Debug window</source>
-        <translation>AeroCoin - Ladiace okno</translation>
+        <source>Aero - Debug window</source>
+        <translation>Aero - Ladiace okno</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>AeroCoin Core</source>
-        <translation>AeroCoin Core</translation>
+        <source>Aero Core</source>
+        <translation>Aero Core</translation>
     </message>
     <message>
         <location line="+279"/>
@@ -1596,8 +1596,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the AeroCoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Otvorte AeroCoin ladenie log súbor z aktuálneho adresára dát. To môže trvať niekoľko sekúnd pre veľké súbory protokolu.</translation>
+        <source>Open the Aero debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Otvorte Aero ladenie log súbor z aktuálneho adresára dát. To môže trvať niekoľko sekúnd pre veľké súbory protokolu.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1606,8 +1606,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-33"/>
-        <source>Welcome to the AeroCoin RPC console.</source>
-        <translation>Vitajte v AeroCoin RPC konzole.</translation>
+        <source>Welcome to the Aero RPC console.</source>
+        <translation>Vitajte v Aero RPC konzole.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1765,8 +1765,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-173"/>
-        <source>Enter a AeroCoin address (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</source>
-        <translation>Zadajte AeroCoin adresu (napr. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</translation>
+        <source>Enter a Aero address (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</source>
+        <translation>Zadajte Aero adresu (napr. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1865,8 +1865,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+251"/>
-        <source>WARNING: Invalid AeroCoin address</source>
-        <translation>VAROVANIE: Neplatná AeroCoin adresa</translation>
+        <source>WARNING: Invalid Aero address</source>
+        <translation>VAROVANIE: Neplatná Aero adresa</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1939,8 +1939,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a AeroCoin address (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</source>
-        <translation>Zadaj a AeroCoin addresu (napr. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</translation>
+        <source>Enter a Aero address (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</source>
+        <translation>Zadaj a Aero addresu (napr. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</translation>
     </message>
 </context>
 <context>
@@ -2000,8 +2000,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this AeroCoin address</source>
-        <translation>Podpísať správu ako dôkaz, že vlastníte túto AeroCoin adresu</translation>
+        <source>Sign the message to prove you own this Aero address</source>
+        <translation>Podpísať správu ako dôkaz, že vlastníte túto Aero adresu</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2032,8 +2032,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified AeroCoin address</source>
-        <translation>Overte správu, aby zabezpečilo, že bola podpísaná s danou AeroCoin adresu</translation>
+        <source>Verify the message to ensure it was signed with the specified Aero address</source>
+        <translation>Overte správu, aby zabezpečilo, že bola podpísaná s danou Aero adresu</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -2043,8 +2043,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a AeroCoin address (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</source>
-        <translation>Zadajte AeroCoin adresu (napr. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</translation>
+        <source>Enter a Aero address (e.g. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</source>
+        <translation>Zadajte Aero adresu (napr. Sjz75uKHzUQJnSdzvpiigEGxseKkDhQToX)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2053,8 +2053,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter AeroCoin signature</source>
-        <translation>Zadajte AeroCoin podpis</translation>
+        <source>Enter Aero signature</source>
+        <translation>Zadajte Aero podpis</translation>
     </message>
     <message>
         <location line="+82"/>
@@ -2624,8 +2624,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+33"/>
-        <source>AeroCoin version</source>
-        <translation>AeroCoin verzia</translation>
+        <source>Aero version</source>
+        <translation>Aero verzia</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2634,8 +2634,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or AeroCoind</source>
-        <translation>Pošli príkaz na -server alebo AeroCoind</translation>
+        <source>Send command to -server or Aerod</source>
+        <translation>Pošli príkaz na -server alebo Aerod</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2654,13 +2654,13 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: AeroCoin.conf)</source>
-        <translation>Zadajte konfiguračný súbor (predvolené: AeroCoin.conf)</translation>
+        <source>Specify configuration file (default: Aero.conf)</source>
+        <translation>Zadajte konfiguračný súbor (predvolené: Aero.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: AeroCoind.pid)</source>
-        <translation>Zadajte pid súbor (predvolené: AeroCoind.pid)</translation>
+        <source>Specify pid file (default: Aerod.pid)</source>
+        <translation>Zadajte pid súbor (predvolené: Aerod.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2809,8 +2809,8 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
     </message>
     <message>
         <location line="+61"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong AeroCoin will not work properly.</source>
-        <translation>Upozornenie: Skontrolujte, že dátum a čas počítača sú správne! Ak je Váš čas nesprávny AeroCoin nebude pracovať správne.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Aero will not work properly.</source>
+        <translation>Upozornenie: Skontrolujte, že dátum a čas počítača sú správne! Ak je Váš čas nesprávny Aero nebude pracovať správne.</translation>
     </message>
     <message>
         <location line="-31"/>
@@ -2999,24 +2999,24 @@ Sumy nižšie ako 0,546 násobok minimálneho poplatku sú zobrazené ako DUST.<
         <source>%s, you must set a rpcpassword in the configuration file:
  %s
 It is recommended you use the following random password:
-rpcuser=AeroCoinrpc
+rpcuser=Aerorpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;AeroCoin Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Aero Alert&quot; admin@foo.com
 </source>
         <translation>%s, musíte nastaviť rpcpassword v konfiguračnom súbore:
  %s
 Je odporúčané použiť nasledujúce náhodné heslo:
-rpcuser=AeroCoinrpc
+rpcuser=Aerorpc
 rpcpassword=%s
 (Nemusíte si pamätať toto heslo)
 Užívateľské meno a heslo nesmú byť rovnaké. 
 Ak súbor neexistuje, vytvorte ho s oprávneniami súborov vlastníkov iba na čítatanie.
 Odporúča sa tiež nastaviť alertnotify, takže budete upozornení na problémy;
-napríklad: alertnotify=echo %%s | mail -s &quot;AeroCoin Alert&quot; admin@foo.com</translation>
+napríklad: alertnotify=echo %%s | mail -s &quot;Aero Alert&quot; admin@foo.com</translation>
     </message>
     <message>
         <location line="+51"/>
@@ -3140,13 +3140,13 @@ napríklad: alertnotify=echo %%s | mail -s &quot;AeroCoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+1"/>
-        <source>Cannot obtain a lock on data directory %s.  AeroCoin is probably already running.</source>
-        <translation>Nemožno získať zámok na dátový adresár %s. AeroCoin už pravdepodobne beží.</translation>
+        <source>Cannot obtain a lock on data directory %s.  Aero is probably already running.</source>
+        <translation>Nemožno získať zámok na dátový adresár %s. Aero už pravdepodobne beží.</translation>
     </message>
     <message>
         <location line="-98"/>
-        <source>AeroCoin</source>
-        <translation>AeroCoin</translation>
+        <source>Aero</source>
+        <translation>Aero</translation>
     </message>
     <message>
         <location line="+140"/>
@@ -3180,13 +3180,13 @@ napríklad: alertnotify=echo %%s | mail -s &quot;AeroCoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of AeroCoin</source>
-        <translation>Chyba pri načítaní wallet.dat: Peňaženka vyžaduje novšiu verziu AeroCoin</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Aero</source>
+        <translation>Chyba pri načítaní wallet.dat: Peňaženka vyžaduje novšiu verziu Aero</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart AeroCoin to complete</source>
-        <translation>Peňaženka potrebuje byť prepísaná: reštartujte AeroCoin k dokončeniu</translation>
+        <source>Wallet needed to be rewritten: restart Aero to complete</source>
+        <translation>Peňaženka potrebuje byť prepísaná: reštartujte Aero k dokončeniu</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3255,8 +3255,8 @@ napríklad: alertnotify=echo %%s | mail -s &quot;AeroCoin Alert&quot; admin@foo.
     </message>
     <message>
         <location line="+122"/>
-        <source>Unable to bind to %s on this computer. AeroCoin is probably already running.</source>
-        <translation>Nemôžem sa pripojiť na %s na tomto počítači. AeroCoin je pravdepodobne už beží.</translation>
+        <source>Unable to bind to %s on this computer. Aero is probably already running.</source>
+        <translation>Nemôžem sa pripojiť na %s na tomto počítači. Aero je pravdepodobne už beží.</translation>
     </message>
     <message>
         <location line="-97"/>

@@ -1,8 +1,8 @@
 #ifndef QTIPCSERVER_H
 #define QTIPCSERVER_H
 
-// Define AeroCoin-Qt message queue name
-#define BITCOINURI_QUEUE_NAME "AeroCoinURI"
+// Define Aero-Qt message queue name
+#define BITCOINURI_QUEUE_NAME "AeroURI"
 
 void ipcScanRelay(int argc, char *argv[]);
 void ipcInit(int argc, char *argv[]);

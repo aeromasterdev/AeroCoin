@@ -1,4 +1,4 @@
-IDI_ICON1 ICON DISCARDABLE "icons/AeroCoin.ico"
+IDI_ICON1 ICON DISCARDABLE "icons/Aero.ico"
 
 #include <windows.h>             // needed for VERSIONINFO
 #include "../../clientversion.h" // holds the needed client version information
@@ -18,14 +18,14 @@ BEGIN
     BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
-            VALUE "CompanyName",        "AeroCoin"
-            VALUE "FileDescription",    "AeroCoin-Qt (OSS GUI client for AeroCoin)"
+            VALUE "CompanyName",        "Aero"
+            VALUE "FileDescription",    "Aero-Qt (OSS GUI client for Aero)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
-            VALUE "InternalName",       "AeroCoin-qt"
-            VALUE "LegalCopyright",     "2014 The AeroCoin developers"
+            VALUE "InternalName",       "Aero-qt"
+            VALUE "LegalCopyright",     "2014 The Aero developers"
             VALUE "LegalTrademarks1",   "Distributed under the MIT/X11 software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php."
-            VALUE "OriginalFilename",   "AeroCoin-qt.exe"
-            VALUE "ProductName",        "AeroCoin-Qt"
+            VALUE "OriginalFilename",   "Aero-qt.exe"
+            VALUE "ProductName",        "Aero-Qt"
             VALUE "ProductVersion",     VER_PRODUCTVERSION_STR
         END
     END

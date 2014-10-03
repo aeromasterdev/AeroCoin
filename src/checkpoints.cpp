@@ -24,7 +24,14 @@ namespace Checkpoints
     //
     static MapCheckpoints mapCheckpoints =
         boost::assign::map_list_of
-        ( 0,      hashGenesisBlock )
+            (0,    hashGenesisBlock )
+            (100,   fCheckPoint1)
+            (1000,  fCheckPoint2)
+            (10000, fCheckPoint3)
+            (30000, fCheckPoint4)
+            (60000, fCheckPoint5)
+            (90000, fCheckPoint6)
+            (114720, fCheckPoint7)
         
     ;
 
@@ -64,7 +71,7 @@ namespace Checkpoints
         return NULL;
     }
 
-    // AeroCoin: synchronized checkpoint (centrally broadcasted)
+    // Aero: synchronized checkpoint (centrally broadcasted)
     uint256 hashSyncCheckpoint = 0;
     uint256 hashPendingCheckpoint = 0;
     CSyncCheckpoint checkpointMessage;
@@ -72,7 +79,7 @@ namespace Checkpoints
     uint256 hashInvalidCheckpoint = 0;
     CCriticalSection cs_hashSyncCheckpoint;
 
-    // AeroCoin: get last synchronized checkpoint
+    // Aero: get last synchronized checkpoint
     CBlockIndex* GetLastSyncCheckpoint()
     {
         LOCK(cs_hashSyncCheckpoint);
@@ -83,7 +90,7 @@ namespace Checkpoints
         return NULL;
     }
 
-    // AeroCoin: only descendant of current sync-checkpoint is allowed
+    // Aero: only descendant of current sync-checkpoint is allowed
     bool ValidateSyncCheckpoint(uint256 hashCheckpoint)
     {
         if (!mapBlockIndex.count(hashSyncCheckpoint))
@@ -236,7 +243,7 @@ namespace Checkpoints
         return false;
     }
 
-    // AeroCoin: reset synchronized checkpoint to last hardened checkpoint
+    // Aero: reset synchronized checkpoint to last hardened checkpoint
     bool ResetSyncCheckpoint()
     {
         LOCK(cs_hashSyncCheckpoint);
@@ -347,12 +354,12 @@ namespace Checkpoints
     }
 }
 
-// AeroCoin: sync-checkpoint master key
+// Aero: sync-checkpoint master key
 const std::string CSyncCheckpoint::strMasterPubKey = "04a18357665ed7a802dcf252ef528d3dc786da38653b51d1ab8e9f4820b55aca807892a056781967315908ac205940ec9d6f2fd0a85941966971eac7e475a27826";
 
 std::string CSyncCheckpoint::strMasterPrivKey = "";
 
-// AeroCoin: verify signature of sync-checkpoint message
+// Aero: verify signature of sync-checkpoint message
 bool CSyncCheckpoint::CheckSignature()
 {
     CKey key;
@@ -367,7 +374,7 @@ bool CSyncCheckpoint::CheckSignature()
     return true;
 }
 
-// AeroCoin: process synchronized checkpoint
+// Aero: process synchronized checkpoint
 bool CSyncCheckpoint::ProcessSyncCheckpoint(CNode* pfrom)
 {
     if (!CheckSignature())

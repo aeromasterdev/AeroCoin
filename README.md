@@ -1,7 +1,7 @@
-AeroCoin
+Aero
 ========
 
-AeroCoin
+Aero
 
 ##Specification
 

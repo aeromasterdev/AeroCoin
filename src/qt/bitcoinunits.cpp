@@ -45,9 +45,9 @@ QString BitcoinUnits::description(int unit)
 {
     switch(unit)
     {
-    case BTC: return QString("AeroCoins");
-    case mBTC: return QString("Milli-AeroCoins (1 / 1,000)");
-    case uBTC: return QString("Micro-AeroCoins (1 / 1,000,000)");
+    case BTC: return QString("Aeros");
+    case mBTC: return QString("Milli-Aeros (1 / 1,000)");
+    case uBTC: return QString("Micro-Aeros (1 / 1,000,000)");
     default: return QString("???");
     }
 }
